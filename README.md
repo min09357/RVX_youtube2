@@ -6,7 +6,7 @@ app name: youtube (original: YouTube)
 
 package name: app.rvx.android.youtube2
 
-You should install GmsCore(https://github.com/ReVanced/GmsCore/releases/latest) first.
+You should install GmsCore(https://github.com/ReVanced/GmsCore/releases/latest) first. Signed version. Not hw-signed.
 
 ## Recommended (Optional)
 
