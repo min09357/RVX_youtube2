@@ -22,7 +22,7 @@ You should install GmsCore(https://github.com/ReVanced/GmsCore/releases/latest) 
 
 1. Install Obtainium (https://github.com/ImranR98/Obtainium/releases/latest/download/app-arm64-v8a-release.apk).
 
-2. Download setting file (https://github.com/min09357/RVX_youtube2/releases/tag/0).
+2. Download .json format setting file (https://github.com/min09357/RVX_youtube2/releases/tag/0).
 
 3. Import Obtainium settings with downloaded file.
 
